@@ -32,11 +32,11 @@
 
 ## 📬 Let's Connect
 
-[![](https://img.shields.io/badge/Portfolio%20Site-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://bsky.app/profile/charlietaylor.dev](https://www.charlietaylor.dev/))
+[![Portfolio Site](https://img.shields.io/badge/Portfolio%20Site-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.charlietaylor.dev/)
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://bsky.app/profile/charlietaylor.dev](https://www.linkedin.com/in/charliejbtaylor/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charliejbtaylor/)
 
-[![](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)]([https://bsky.app/profile/charlietaylor.dev](https://bsky.app/profile/charlietaylor.dev))
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/charlietaylor.dev)
 
 ---
 
